@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 
 ## 🌟 Latest Repositories:
 
-[[Chess Engine Using Java]]((https://github.com/expygmalion/ChessEngine))
+[Chess Engine Using Java](https://github.com/expygmalion/ChessEngine)
 
-[[Sudoku Using C++]]((https://github.com/expygmalion/SudokuEngine))
+[Sudoku Using C++]](https://github.com/expygmalion/SudokuEngine)
 
 
 ## 📫 Contact Me
