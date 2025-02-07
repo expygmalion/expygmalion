@@ -1,15 +1,15 @@
-# Hi there, I'm expygmalion, I Am A Machine. 👋
+# Hi there, I'm exPygmalion, I Am A Machine. 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer, constantly exploring new technologies and improving my skills. Here's a little bit about me:
 
 ## 🚀 About Me
 
-- 💻 I love philosphically challenging problems. As well as arithemtically challenging ones.
+- 💻 I love philosphically challenging problems.
 - 🌱 I’m currently learning advanced AI and machine learning, as well as hands on robotics.
 - 👯 I’m looking to collaborate on open-source projects, I would love to be able to innovate with other ambitious people.
 - 🤔 I'm looking for help with concepts of programming languages.
 - 💬 I love in depth conversations that start out as superficial questions, 
-- 📫 How to reach me: [email@example.com](mailto:expygmalion@icloud.com)
+- 📫 How to reach me: [exPygmalion@icloud.com](mailto:expygmalion@icloud.com)
 
 
 ## 🛠️ Technologies & Tools
@@ -25,12 +25,14 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=expygmalion&repo=repo-name&theme=radical)]([https://github.com/expygmalion/repo-name](https://github.com/expygmalion/ChessEngine))
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=expygmalion&repo=repo-name&theme=radical)]([https://github.com/expygmalion/repo-name](https://github.com/expygmalion/SudokuEngine))
+[![Chess Engine Using Java](https://github.com/expygmalion/ChessEngine)
 
-## 📫 Contact Me
+
+[![Sudoku Using C++](https://github.com/expygmalion/SudokuEngine)
+
+## 📫 Contact
 
 - Email: [email@example.com](mailto:expygmalion@icloud.com)
-- Twitter: [twitter.com/expygmalion](https://twitter.com/expygmalion)
+- X: [x.com/exPygmalion](https://twitter.com/expygmalion)
 
 Thanks for visiting my profile! Have a great day! 😊
