@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 - 👯 I’m looking to collaborate on open-source projects, I would love to be able to innovate with other ambitious people.
 - 🤔 I'm looking for help with concepts of programming languages.
 - 💬 I love in depth conversations that start out as superficial questions, 
-- 📫 How to reach me: [email@example.com](mailto:expygmalion@icloud.com)
+- 📫 How to reach me: [exPygmalion@icloud.com](mailto:expygmalion@icloud.com)
 
 
 ## 🛠️ Technologies & Tools
@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 
 ## 🌟 Latest Repositories:
 
-[![Chess Engine Using Java]]((https://github.com/expygmalion/ChessEngine))
+[[Chess Engine Using Java]]((https://github.com/expygmalion/ChessEngine))
 
-[![Sudoku Using C++]]((https://github.com/expygmalion/SudokuEngine))
+[[Sudoku Using C++]]((https://github.com/expygmalion/SudokuEngine))
 
 
 ## 📫 Contact Me
