@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 
 ![expygmalion's GitHub stats](https://github-readme-stats.vercel.app/api?username=expygmalion&show_icons=true&theme=radical)
 
-## 🌟 Top Repositories
+## 🌟 Latest Repositories:
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=expygmalion&repo=repo-name&theme=radical)]([https://github.com/expygmalion/repo-name](https://github.com/expygmalion/ChessEngine))
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=expygmalion&repo=repo-name&theme=radical)]([https://github.com/expygmalion/repo-name](https://github.com/expygmalion/SudokuEngine))
+[![Chess Engine Using Java]]((https://github.com/expygmalion/ChessEngine))
+[![Sudoku Using C++]]((https://github.com/expygmalion/SudokuEngine))
 
 ## 📫 Contact Me
 
