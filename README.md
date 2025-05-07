@@ -19,9 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 - Databases: MySQL, PostgreSQL, MongoDB, Oracle DBMS.
 - Tools & Platforms: Git, Docker, Kubernetes, AWS, Azure.
 
-## 📈 GitHub Stats
 
-![expygmalion's GitHub stats](https://github-readme-stats.vercel.app/api?username=expygmalion&show_icons=true&theme=radical)
 
 ## 🌟 Latest Repositories:
 
