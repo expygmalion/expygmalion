@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, constantly ex
 
 ## 📈 GitHub Stats
 
-![expygmalion's GitHub stats](https://github-readme-stats.vercel.app/api?username=expygmalion&show_icons=true&theme=radical)
+![expygmalion's GitHub stats](https://github-readme-stats.vercel.app/api?username=expygmalio&show_icons=true&theme=radical)
 
 ## 🌟 Latest Repositories:
 
