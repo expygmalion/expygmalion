@@ -1,36 +1,19 @@
-# Hi there, I'm expygmalion, I Am A Machine. 👋
-
-Welcome to my GitHub profile! I'm a passionate software developer, constantly exploring new technologies and improving my skills. Here's a little bit about me:
-
-## 🚀 About Me
-
-- 💻 I love philosphically challenging problems. As well as arithemtically challenging ones.
-- 🌱 I’m currently learning advanced AI and machine learning, as well as hands on robotics.
-- 👯 I’m looking to collaborate on open-source projects, I would love to be able to innovate with other ambitious people.
-- 🤔 I'm looking for help with concepts of programming languages.
-- 💬 I love in depth conversations that start out as superficial questions, 
-- 📫 How to reach me: [exPygmalion@icloud.com](mailto:expygmalion@icloud.com)
+Hi there, I'm expygmalion, a citizen of the universe, and beyond. 
 
 
-## 🛠️ Technologies & Tools
+
+tech & tools 
 
 - Programming Languages: Python, JavaScript, Java, C++.
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, PostgreSQL, MongoDB, Oracle DBMS.
-- Tools & Platforms: Git, Docker, Kubernetes, AWS, Azure.
+- Tools & Platforms: Git, Docker, Kubernetes, AWS, Azure, Ruby, Supabase, Arduino
 
 
 
-## 🌟 Latest Repositories:
+Contact
 
-[Chess Engine Using Java](https://github.com/expygmalion/ChessEngine)
-
-[Sudoku Using C++](https://github.com/expygmalion/SudokuEngine)
-
-
-## 📫 Contact Me
-
-- Email: [email@example.com](mailto:expygmalion@icloud.com)
+- Email: [expygmalion@icloud.com](mailto:expygmalion@icloud.com)
 - Twitter: [twitter.com/expygmalion](https://twitter.com/expygmalion)
 
-Thanks for visiting my profile! Have a great day! 😊
+
