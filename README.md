@@ -1,14 +1,4 @@
-Hi there, I'm expygmalion, a citizen of the universe, and perhaps beyond.
-
-
-
-tech & tools 
-
-- Programming Languages: Python, JavaScript, Java, C++.
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, PostgreSQL, MongoDB, Oracle DBMS.
-- Tools & Platforms: Git, Docker, Kubernetes, AWS, Azure, Ruby, Supabase, Arduino.
-
+I'm a polymath, dropped out of medicine after 5 years to build alien and perhaps magical artifacts. 
 
 
 Contact
